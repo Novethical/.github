@@ -6,6 +6,8 @@ We aim to develop in collaboration with multiple organizations a web browser ext
 
 The project is in early state, but feel free to join us on discord if you want more informations !
 
+Code will be available soon :)
+
 Join us on Discord !
 
 https://novethical.org/
